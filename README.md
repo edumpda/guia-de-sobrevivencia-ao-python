@@ -4,7 +4,9 @@
 
 Se você já se sentiu perdido no meio de tanta informação sobre Python, esse guia foi feito para você! A ideia aqui é simples: um material compacto, sem enrolação, que te ajuda a resolver problemas e entender a linguagem de forma prática.  
 
-Este guia é voltado para estudantes que estão começando, professores que querem um suporte didático e qualquer pessoa que deseja aprender Python de forma objetiva.  
+Este guia é voltado para estudantes que estão começando, professores que querem um suporte didático e qualquer pessoa que deseja aprender Python de forma objetiva. 
+
+Este material didático foi produzido com a orientação dos professores Jonathan Rosa Moreira e Maria Fátima Brandão, através da disciplina de Produção de Material Didático, ofertada pelo Departamento de Ciência da Computação da Universidade de Brasília.
 
 ---
 
