@@ -6,7 +6,7 @@ Se você já se sentiu perdido no meio de tanta informação sobre Python, esse 
 
 Este guia é voltado para estudantes que estão começando, professores que querem um suporte didático e qualquer pessoa que deseja aprender Python de forma objetiva. 
 
-Este material didático foi produzido com a orientação dos professores Jonathan Rosa Moreira e Maria Fátima Brandão, através da disciplina de Produção de Material Didático, ofertada pelo Departamento de Ciência da Computação da Universidade de Brasília (UnB). Este material também contou com o apoio da professora Kadidja Valéria, professora de cursos de tecnologia no Centro Universitário UDF e professora na área de informática no Instituto Federal de Educação, Ciência e Tecnologia de Brasília (IFB).
+Este material didático foi produzido com a orientação dos professores Maria Fátima Brandão e Jonathan Rosa Moreira, como requisito da componente curricular da disciplina de Produção de Material Didático, ofertada pelo Departamento de Ciência da Computação da Universidade de Brasília (UnB). Este material também contou com o apoio da professora Kadidja Valéria, professora no Centro Universitário UDF e no Instituto Federal de Educação, Ciência e Tecnologia de Brasília (IFB), atuando na área de informática.
 
 ---
 
